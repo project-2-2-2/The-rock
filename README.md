@@ -1,2 +1,1 @@
-# The-rock
-the rock 
+Open the files in your browser
